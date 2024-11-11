@@ -1,4 +1,4 @@
-## Austin animal Sheltern - Grazioso Salvare/Global Rain.
+## Austin Animal Shelter - Global Rain.
 ![image](https://github.com/user-attachments/assets/daa53517-35dc-4138-834a-cc66f49a0d2a)
 
 The required functionality of this project will involve working with existing data from the animal shelter CSV file. This will give Grazioso Salvare employees the ability to identify and categorize data, specifically dog breeds. The application will also feature a client facing dashboard. Affiliates of Grazioso Salvare/Global Rain may access the database from via database queries. The users can interact with the preexisting data from the animal shelter database categorized by the rescue type of the animal (breed). The code implemented in this documentation is for CRUD operations (create, read, update, delete) functionality.  Which allows users to interact through filtering options with database collections data. 
