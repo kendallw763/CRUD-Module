@@ -15,7 +15,7 @@ To begin, we will start by opening the virtual machine via Apporto. This can be 
     total = self.collection.count_documents({}) - Counts the total documents within the database.
     results = list(self.collection.find(query)) - Quick look up for existing documents.
     
-## Read - This gives the user the ability to read the pre existing documentation within the Mongo DB database
+## Read - This gives the user the ability to read the pre existing documentation within the Mongo DB database.
     results = list(self.collection.find(query)) - Read the preexisting documents.
 
 ## Update - Preexisting documentation inside the database can be edited using the follwing commands...
@@ -25,13 +25,13 @@ To begin, we will start by opening the virtual machine via Apporto. This can be 
     replaceOne = list(self.collection.replaceMany()) - Replaces multiple documents. 
     queryCount = query - Counts how many queries are within the database curently.
 
-## Delete - The last bit of functionality in the code for users is not delete any information that may not be needed... Or, if one makes a mistake when inserting queries
+## Delete - The last bit of functionality in the code for users is not delete any information that may not be needed... Or, if one makes a mistake when inserting queries.
     deleteOne = list(self.collection.deleteOne()) - Deletes a single document.
     deleteMany = list(seld.collection.deleteMany()) - Deletes multiple documents.
     
 ## Resources
-CS 340 Jupyter Notebook in Apporto (Virtual Lab) Tutorial PDF
-CS 340 Dashboard Specifications Document PDF
-CS 340 Mongo in Apporto (Virtual Lab) Tutorial PDF
-Headfirst Python
+CS 340 Jupyter Notebook in Apporto (Virtual Lab) Tutorial PDF.
+CS 340 Dashboard Specifications Document PDF.
+CS 340 Mongo in Apporto (Virtual Lab) Tutorial PDF.
+Headfirst Python.
 
