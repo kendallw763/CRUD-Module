@@ -4,7 +4,7 @@
 
 
 ## Tools Used:
-    VS Code Python, Jupyter Notebooks exstension in VS Code, Prettier, .venv, Flask, Jupyter, Home brew, pip (via Mac OS CLI), and Plotly Dash. The remaining imports and/or libraries can be found within the code base.
+    VS Code, Python, Jupyter Notebooks, Prettier, .venv, Flask, Home brew, pip (via Mac OS CLI), MongoDB, and Plotly Dash. The remaining imports and/or libraries can be found within the code base.
 
 ## Create:
     self.collection.insert_many(data) - Inserts more than one document.
