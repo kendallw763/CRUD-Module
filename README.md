@@ -1,5 +1,4 @@
 ## Emergency Animal Shelter Outcomes
-![image](https://github.com/user-attachments/assets/daa53517-35dc-4138-834a-cc66f49a0d2a)
 <img width="1680" alt="Screenshot 2025-04-08 at 12 54 49 PM (2)" src="https://github.com/user-attachments/assets/98253f05-3fad-49ff-ba9a-105dcbe2e419" />
 
 
