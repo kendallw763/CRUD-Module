@@ -1,7 +1,7 @@
-## Database
+## Client-Side
 <img width="1680" alt="Screenshot 2025-04-08 at 12 54 49 PM (2)" src="https://github.com/user-attachments/assets/98253f05-3fad-49ff-ba9a-105dcbe2e419" />
 
-## Serverside
+## Database
 ![Screenshot 2025-04-11 at 1 11 40 PM](https://github.com/user-attachments/assets/0322284c-1345-45be-9e9f-2f4b048e0e82)
 
 
